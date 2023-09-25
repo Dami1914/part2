@@ -1,3 +1,6 @@
 [submodule "courseinfo"]
 	path = courseinfo
 	url = https://github.com/Dami1914/courseinfo.git
+[submodule "Data-for-countries"]
+	path = Data-for-countries
+	url = https://github.com/Dami1914/Data-for-countries.git
