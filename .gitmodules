@@ -4,3 +4,6 @@
 [submodule "Data-for-countries"]
 	path = Data-for-countries
 	url = https://github.com/Dami1914/Data-for-countries.git
+[submodule "The-Phonebook"]
+	path = The-Phonebook
+	url = https://github.com/Dami1914/The-Phonebook.git
